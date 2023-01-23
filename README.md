@@ -1,7 +1,7 @@
 ### Olá! Eu sou Jhonatan Sampaio, atualmente sou estudande de Engenharia de Software na UTFPR-CP, e estagiario full-stack na ForLogic. 👋
 
 - 🔭 I’m currently working on Front-end.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Java, C#, Python.
+- 🌱 I’m currently learning HTML, CSS, BootStrap JavaScript, Java, C#, Python, Angular, TypeScript.
 
 <div align="center">
   <a href="https://github.com/jhosampaio">
