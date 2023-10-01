@@ -1,4 +1,4 @@
-### Olá! Eu sou Jhonatan Sampaio, atualmente sou estudande de Engenharia de Software na UTFPR-CP, e estagiario full-stack na ForLogic. 👋
+### Olá! Eu sou Jhonatan Sampaio, atualmente sou estudande de Engenharia de Software na UTFPR-CP, e desenvolvedor full-stack na ForLogic. 👋
 
 - 🔭 I’m currently working on Front-end and Back-end.
 - 🌱 I’m currently learning C#, .NET, Angular, nodeJS, Express, React, TypeScript.
